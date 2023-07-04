@@ -11,7 +11,7 @@ To run our new version which is version 2.0 your system must accompained followi
                     pip install git
         B: For Windows users:
                 Visit following link and Download git latest version
-                         **https://git-scm.com/download/win**
+                         https://git-scm.com/download/win
                 Select 32-bit or 64-bit version according to your system archietecture
 
 *********** Thanks for using our Product  *****************************
