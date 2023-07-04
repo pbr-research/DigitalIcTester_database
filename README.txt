@@ -1,4 +1,4 @@
-***************************************  **PC BASED DIGITAL IC TESTER REQUIREMENTS**  **********************************************
+***************************************  __PC BASED DIGITAL IC TESTER REQUIREMENTS__  **********************************************
 
 To run our new version which is version 2.0 your system must accompained following requirements:
 
@@ -14,4 +14,4 @@ To run our new version which is version 2.0 your system must accompained followi
                          **https://git-scm.com/download/win**
                 Select 32-bit or 64-bit version according to your system archietecture
 
-********************************************  **Thanks for using our Product**  ***********************************************
+********************************************  __Thanks for using our Product__  ***********************************************
