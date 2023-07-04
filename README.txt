@@ -7,8 +7,10 @@ To run our new version which is version 2.0 your system must accompained followi
     2. Before running our file you must install git module by any of the following method
         
         A: For Linux users:
-                Goto Terminal and type     
+                Goto Terminal and type:     
                     sudo apt install git
+
+                Note: These Command may be changed for different Linux distributions.I tested it on Debian Linux!
 
         B: For Windows users:
                 Visit following link and Download git latest version
