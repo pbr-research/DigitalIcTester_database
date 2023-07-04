@@ -10,7 +10,7 @@ To run our new version which is version 2.0 your system must accompained followi
                 Goto Terminal and type:     
                     sudo apt install git
 
-                Note: These Command may be changed for different Linux distributions.I tested it on Debian Linux!
+                Note: These Command may be changed for different Linux distributions.We Tested it on Debian Linux!
 
         B: For Windows users:
                 Visit following link and Download git latest version
