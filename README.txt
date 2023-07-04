@@ -4,7 +4,7 @@ To run our new version which is version 2.0 your system must accompained followi
 
     1.Any Python version most preferably higher than version 3.0
 
-    2. Before running our file you must install git module by any of the following method
+    2. Before running our exe file you must install git module by any of the following method
         
         A: For Linux users:
                 Goto Terminal and type:     
