@@ -8,7 +8,8 @@ To run our new version which is version 2.0 your system must accompained followi
         
         A: For Linux users:
                 Goto Terminal and type     
-                    pip install git
+                    sudo apt install git
+
         B: For Windows users:
                 Visit following link and Download git latest version
                          https://git-scm.com/download/win
